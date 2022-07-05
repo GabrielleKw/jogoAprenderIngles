@@ -7,3 +7,7 @@ Jogo construído
 ![image](https://user-images.githubusercontent.com/76081229/177419235-e9eb931d-248a-4333-a1a1-a5001ebf8863.png)
 
 </p>
+
+# Autora 
+
+|[Linkedin](https://www.linkedin.com/in/gabriellekwsiqueira/)|
